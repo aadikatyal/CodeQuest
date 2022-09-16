@@ -1,3 +1,3 @@
-# Lockheed Martin CodeQuest Academy - Apr 2022
+# Lockheed Martin CodeQuest Academy
 
-School team finalist in national competitive programming competition, where students are ranked in divisions for their solutions to various programming tasks
+National competitive programming competition, where students are ranked in divisions for their solutions to various programming tasks
